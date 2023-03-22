@@ -1,0 +1,2 @@
+The project is the part of the university's (TAMK) Programming Languages 3 (Java) course. It contains functions for linear and binary seaching, O(n^2) and O(n*log(n)) types of sorting and the function for showing sorting performance.
+Choosing functions to run is made from the menu. The idea of this menu is to be able to rerun any function as many times as wanted and only after choosing Quit you exit the application.
